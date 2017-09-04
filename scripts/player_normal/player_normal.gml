@@ -1,5 +1,5 @@
 get_user_inputs();
-sprite_index = sPlayer;
+sprite_index = s_raccon_walk1;
 if (key_right - key_left == 0)
 {
 	image_speed = 0;
@@ -27,7 +27,9 @@ if (place_meeting(x, y+1, oWall))
 		currState = states.jump;
 	}
 	hsp = 3 * (key_right - key_left);
-} else if place_meeting(x, y, oLadder)
+} 
+
+if place_meeting(x, y, oLadder)
 {
 	vsp = 0;
 	

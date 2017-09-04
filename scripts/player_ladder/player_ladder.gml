@@ -1,5 +1,5 @@
 get_user_inputs();
-sprite_index = sPlayer_ladder;
+sprite_index = s_raccon_ladder1;
 if (key_up - key_down == 0)
 {
 	image_speed = 0;

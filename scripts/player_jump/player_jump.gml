@@ -1,5 +1,5 @@
 get_user_inputs();
-sprite_index = sPlayer_jump;
+sprite_index = s_raccon_jump1;
 
 if (place_free(x, y+1))
 {

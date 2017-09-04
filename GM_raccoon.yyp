@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1ddc6f35-74e4-4c37-ab04-e00c472345ae",
+            "Value": {
+                "id": "019fc9e4-98df-49c1-b72e-28b91b39d1e4",
+                "resourcePath": "sprites\\s_raccon_jump1\\s_raccon_jump1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "202de72e-f95c-422f-8e2e-a767164f08fc",
             "Value": {
                 "id": "9f9f64b2-d90f-4cde-a8dd-dd3cff37e8e7",
@@ -68,6 +76,14 @@
                 "id": "a1c5e04a-8bda-482e-888e-ea85952400a2",
                 "resourcePath": "views\\2191ab3a-609f-4fa6-9c54-7a982ef3b800.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "24e1232c-a033-42d4-872e-f1245610b27d",
+            "Value": {
+                "id": "d5ec15e3-965d-4e15-9ae6-0aed8b61e704",
+                "resourcePath": "sprites\\s_raccon_ladder\\s_raccon_ladder.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -98,7 +114,7 @@
             "Key": "2906e7f1-cc03-4a99-990e-203636b6cacc",
             "Value": {
                 "id": "5d768699-38d3-4202-abd7-7acfcd93dcae",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\r_001\\r_001.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "4f5df597-08fb-4acc-904b-fb042efc2e4f",
+            "Value": {
+                "id": "88ee21a1-0528-459d-a594-f69a226d051f",
+                "resourcePath": "sprites\\s_lupin_jump1\\s_lupin_jump1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4fa690b5-dc60-4727-bb42-267e59d2dc68",
             "Value": {
                 "id": "c512d27d-b2f9-427a-89ef-ab19272a55eb",
@@ -228,6 +252,14 @@
                 "id": "18571390-508a-44a4-9a2d-52196865bd27",
                 "resourcePath": "views\\798a3575-b1b4-494b-a73e-0e8e146fe5b8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7c7e6a89-c38f-40a8-aaad-3f890b7a55a1",
+            "Value": {
+                "id": "a870903b-61ad-44fb-b980-1d8a4a6299cf",
+                "resourcePath": "objects\\o_lupin\\o_lupin.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -311,6 +343,14 @@
             }
         },
         {
+            "Key": "a6c10c87-04a1-4f03-b065-c0818f0d2522",
+            "Value": {
+                "id": "6908b5ed-88c6-41df-8e04-9cc67a3252e0",
+                "resourcePath": "sprites\\s_lupin_walk\\s_lupin_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "03c7f274-6f88-4eac-a017-2a453b2e784d",
@@ -332,6 +372,14 @@
                 "id": "dd523769-fbf3-4c38-a413-0e39c971b301",
                 "resourcePath": "views\\af4f9a5f-dc3a-4750-ae49-c951625f5b2a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b5df5d06-84f5-4836-840f-9dd8dafe5844",
+            "Value": {
+                "id": "6514f733-4d51-4050-8b23-b62dc54f5930",
+                "resourcePath": "sprites\\s_lupin_jump\\s_lupin_jump.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -367,6 +415,22 @@
             }
         },
         {
+            "Key": "c1c538aa-298c-4753-9367-cd2166ce8998",
+            "Value": {
+                "id": "18ea068a-c47e-46a1-bd9f-af68ca57e5cb",
+                "resourcePath": "sprites\\s_raccon_walk\\s_raccon_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c2ed9dd4-3ec5-418c-a76b-e4132e911ba5",
+            "Value": {
+                "id": "88c8bfa2-b330-488a-bbed-740108280b36",
+                "resourcePath": "sprites\\s_raccon_ladder1\\s_raccon_ladder1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c48ab782-bf96-4258-9c32-82dea42c98fa",
             "Value": {
                 "id": "65a5f0a6-f2df-4a66-8e69-41c47d18083e",
@@ -388,6 +452,14 @@
                 "id": "9d6083c1-fb2b-4a9e-b675-4911a473765b",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d81b156b-7e7d-46b0-b989-62555af2feda",
+            "Value": {
+                "id": "cb66c9f1-8204-4ec8-8ce1-e188c6b8ccb5",
+                "resourcePath": "sprites\\s_raccon_walk1\\s_raccon_walk1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -415,6 +487,14 @@
             }
         },
         {
+            "Key": "e9763b52-cc71-4443-b25a-07c6f3e78244",
+            "Value": {
+                "id": "898c7dca-82ca-4e05-ac36-84acaa2177ef",
+                "resourcePath": "sprites\\s_racoon\\s_racoon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ec0eaba2-38dd-4b57-9448-3a64de967e14",
             "Value": {
                 "id": "8557f868-927c-4f2d-bb7b-a5d8e0b619a6",
@@ -428,6 +508,22 @@
                 "id": "563f9355-d769-4c09-9653-9c7835cdc30d",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f90cfe1f-eef2-43d8-a929-dc5e010f79dd",
+            "Value": {
+                "id": "326fd247-7fe9-4289-88e8-e26fb65cfc63",
+                "resourcePath": "rooms\\r_002\\r_002.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "fdee14c7-6c8d-4e44-886d-0e20ce6503b2",
+            "Value": {
+                "id": "f486a3be-3c97-45de-95da-a9473e093c6d",
+                "resourcePath": "sprites\\s_raccon_jump\\s_raccon_jump.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
