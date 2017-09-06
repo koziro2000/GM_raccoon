@@ -23,7 +23,7 @@ else
 if (place_meeting(x, y+1, oWall))
 {
 	if (key_jump) {
-		vsp = -3;
+		vsp = -4;
 		currState = states.jump;
 	}
 	hsp = 3 * (key_right - key_left);
