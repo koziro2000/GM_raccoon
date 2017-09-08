@@ -10,11 +10,15 @@ if (image_index == 2)
 			image_xscale = sign(x - other.x);
 			if (image_index < image_number) image_index +=1;
 			else image_index = 0;
+			hp -= 1;
 		}
+		instance_destroy();
 	}
 }
 
+/*
 if (image_index >= image_number -1)
 {
 	currState = fighter_states.idle;
 }
+*/

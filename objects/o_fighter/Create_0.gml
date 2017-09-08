@@ -9,3 +9,4 @@ enum fighter_states
 currState = fighter_states.idle;
 
 walk_speed = 5;
+image_speed = 0.5;
