@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "95d99ad3-aa05-47b5-b39c-23b9bd327946",
+            "Value": {
+                "id": "e3b79c0c-04d8-406e-9f00-a197876ba1b7",
+                "resourcePath": "sprites\\s_fighter_jump\\s_fighter_jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "964c2629-61ce-4c5e-9978-0aee9ebb03ac",
             "Value": {
                 "id": "068848df-dc76-43b0-a175-08f7786daa0b",
@@ -412,6 +420,14 @@
                 "id": "0321fff6-4819-4515-9d11-b429fd065675",
                 "resourcePath": "views\\9ac555cc-8001-45b2-bdb7-000896dbfc57.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9c0200be-4b6c-4b05-840f-15a8db170029",
+            "Value": {
+                "id": "071b7cef-a919-4c2a-82c4-5f15c861555d",
+                "resourcePath": "scripts\\fighter_jump\\fighter_jump.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -653,6 +669,14 @@
                 "resourcePath": "rooms\\r_002\\r_002.yy",
                 "resourceType": "GMRoom"
             }
+        },
+        {
+            "Key": "fd9874df-9d10-4c4e-8ed8-9f41eb7ccea7",
+            "Value": {
+                "id": "7ae73947-0458-4621-8e33-b7a32418ee13",
+                "resourcePath": "scripts\\fighter_collide_move\\fighter_collide_move.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
@@ -667,7 +691,9 @@
         "e8c8d69d-007b-4160-ab21-fe8e11d11a38",
         "0ea8c539-7889-4c1d-9374-8f16eedcbe26",
         "6c7c1947-ced5-4b60-ba6f-ce067d6ed3b9",
-        "7d535713-757c-4eea-a7e2-6003fc60bde4"
+        "7d535713-757c-4eea-a7e2-6003fc60bde4",
+        "fd9874df-9d10-4c4e-8ed8-9f41eb7ccea7",
+        "9c0200be-4b6c-4b05-840f-15a8db170029"
     ],
     "tutorial": ""
 }
