@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "33500663-5c1e-40a3-96c4-ceb121bb9201",
+            "Value": {
+                "id": "04acb1fb-1178-46cc-83dc-88c8114ac833",
+                "resourcePath": "sprites\\duckoo_normal\\duckoo_normal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a1bc5a4-3c75-44ed-9df1-e78c79284573",
             "Value": {
                 "id": "52c18bd9-6e32-4b1a-af32-2cd4b2c509ca",
@@ -348,6 +356,14 @@
                 "id": "4342935f-6f44-4126-81c1-375690459055",
                 "resourcePath": "rooms\\r_005_lr\\r_005_lr.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6b8302bf-49e3-4539-a28f-c0b3d8fc37ae",
+            "Value": {
+                "id": "08ad4b23-85e9-4bf4-b024-aea36a7003db",
+                "resourcePath": "views\\6b8302bf-49e3-4539-a28f-c0b3d8fc37ae.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
